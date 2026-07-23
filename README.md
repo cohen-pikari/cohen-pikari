@@ -1,16 +1,15 @@
-## Hi there 👋
+### Cohen Pikari
+Investment Operations | Fund Reporting | Performance Analytics — Melbourne, AU
 
-<!--
-**cohen-pikari/cohen-pikari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Transitioning from institutional superannuation operations (UniSuper) into investment
+operations and fund reporting roles. Background in APRA-regulated fund administration,
+crediting rate/valuation cycles, and multi-asset account structures.
 
-Here are some ideas to get you started:
+**Featured projects:**
+- 🔧 [investment-reporting-toolkit](https://github.com/cohen-pikari/investment-reporting-toolkit) —
+  Python/pandas/SQL reconciliation engine simulating portfolio-to-custodian (IBOR/CBOR)
+  matching on synthetic datasets, with automated exception classification.
+- 📈 [investment-research-vault](https://github.com/cohen-pikari/investment-research-vault) —
+  Monthly investment theses documenting fundamental analysis and reasoning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://linkedin.com/in/cohen-pikari-)
