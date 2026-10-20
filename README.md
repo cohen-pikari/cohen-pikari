@@ -5,10 +5,10 @@ Background in APRA-regulated fund administration, crediting rate/valuation cycle
 
 Featured projects:
 
-🔧 investment-reporting-toolkit — Python/pandas/SQL reconciliation engine simulating portfolio-to-custodian (IBOR/CBOR) matching on synthetic datasets, with automated exception classification.
+🔧 [investment-reporting-toolkit](https://github.com/cohen-pikari/investment-reporting-toolkit) — Python/pandas/SQL reconciliation engine simulating portfolio-to-custodian (IBOR/CBOR) matching on synthetic datasets, with automated exception classification.
 
-📈 investment-research-vault — Structured investment thesis tracking documenting fundamental analysis methodology, catalyst monitoring, and portfolio construction discipline.
+📈 [investment-research-vault](https://github.com/cohen-pikari/investment-research-vault) — Structured investment thesis tracking documenting fundamental analysis methodology, catalyst monitoring, and portfolio construction discipline.
 
-🔍 price-discovery-lab — Investigating how illiquid and hard-to-price assets (private equity, private credit, unlisted real assets, prediction markets) actually get valued, through real, publicly-sourced case studies.
+🔍 [price-discovery-lab](https://github.com/cohen-pikari/price-discovery-lab) — Investigating how illiquid and hard-to-price assets (private equity, private credit, unlisted real assets, prediction markets) actually get valued, through real, publicly-sourced case studies.
 
 [LinkedIn](https://linkedin.com/in/cohen-pikari-)
