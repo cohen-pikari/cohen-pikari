@@ -9,4 +9,6 @@ Featured projects:
 
 📈 investment-research-vault — Structured investment thesis tracking documenting fundamental analysis methodology, catalyst monitoring, and portfolio construction discipline.
 
+🔍 price-discovery-lab — Investigating how illiquid and hard-to-price assets (private equity, private credit, unlisted real assets, prediction markets) actually get valued, through real, publicly-sourced case studies.
+
 [LinkedIn](https://linkedin.com/in/cohen-pikari-)
