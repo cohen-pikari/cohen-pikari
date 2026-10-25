@@ -3,6 +3,8 @@ Investment Operations | Fund Reporting | Performance Analytics, Melbourne, AU
 
 Background in APRA-regulated fund administration, crediting rate/valuation cycles, and multi-asset account structures within institutional superannuation. Focused on reconciliation, reporting, and portfolio construction discipline.
 
+Currently: CFA Level I candidate.
+
 Featured projects:
 
 [investment-reporting-toolkit](https://github.com/cohen-pikari/investment-reporting-toolkit): Python/pandas/SQL reconciliation engine simulating portfolio-to-custodian (IBOR/CBOR) matching on synthetic datasets, with automated exception classification.
