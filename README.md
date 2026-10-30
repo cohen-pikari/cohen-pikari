@@ -1,16 +1,17 @@
-### Cohen Pikari
-Investment Operations | Fund Reporting | Performance Analytics, Melbourne, AU
+# Cohen Pikari
 
-Background in APRA-regulated fund administration, crediting rate/valuation cycles, and multi-asset account structures within institutional superannuation. Focused on reconciliation, reporting, and portfolio construction discipline.
+Superannuation operations | Reconciliations & investment data | Melbourne, AU
 
-Currently: CFA Level I candidate.
+Three years at UniSuper, working in an APRA-regulated environment across accumulation, pension and defined benefit structures. Building toward investment operations: CFA Level I candidate (2027), FMVA, Bloomberg Market Concepts.
 
-Featured projects:
+## Projects
 
-[investment-reporting-toolkit](https://github.com/cohen-pikari/investment-reporting-toolkit): Python/pandas/SQL reconciliation engine simulating portfolio-to-custodian (IBOR/CBOR) matching on synthetic datasets, with automated exception classification.
+- **[investment-reporting-toolkit](https://github.com/cohen-pikari/investment-reporting-toolkit)**: Python/pandas/SQL portfolio-to-custodian reconciliation on synthetic multi-asset data: holdings matching, tolerance rules, exception classification and Excel reporting.
+- **[price-discovery-lab](https://github.com/cohen-pikari/price-discovery-lab)**: Case studies on how illiquid, hard-to-price assets (private equity, private credit, unlisted real assets, carbon markets, prediction markets) get valued, using publicly available sources.
+- **[investment-research-vault](https://github.com/cohen-pikari/investment-research-vault)**: Monthly investment theses on listed equities and ETFs, applying fundamental analysis and structured reasoning.
 
-[investment-research-vault](https://github.com/cohen-pikari/investment-research-vault): Structured investment thesis tracking documenting fundamental analysis methodology, catalyst monitoring, and portfolio construction discipline.
+## Notes
 
-[price-discovery-lab](https://github.com/cohen-pikari/price-discovery-lab): Investigating how illiquid and hard-to-price assets (private equity, private credit, unlisted real assets, carbon markets, prediction markets) actually get valued, through real, publicly-sourced case studies.
+Personal projects. They use synthetic or publicly available data only, contain no employer or member information, and aren't affiliated with UniSuper. Parts were built with AI assistance (Claude); I set the design, review the output and run the work.
 
-[LinkedIn](https://linkedin.com/in/cohen-pikari-)
+[LinkedIn](https://www.linkedin.com/in/cohen-pikari-/)
